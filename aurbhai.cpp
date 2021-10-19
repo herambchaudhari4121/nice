@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+void solve(){
+  cout << "solve";
+}
 int main()
 {
   long long int n,m,k;
