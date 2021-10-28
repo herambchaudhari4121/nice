@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-  cout<<"Dev 17 ka bkl";
+  cout<<"Hi !!";
   
  return 0;
 }
